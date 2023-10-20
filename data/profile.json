@@ -12,8 +12,24 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/lucazalcantara/js-developer-portfolio-DIO/main/data/imgs/css.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/lucazalcantara/js-developer-portfolio-DIO/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/lucazalcantara/js-developer-portfolio-DIO/main/data/imgs/html.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/lucazalcantara/js-developer-portfolio-DIO/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/lucazalcantara/js-developer-portfolio-DIO/main/data/imgs/js.png"
       }
       
     ],
