@@ -48,13 +48,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto de clone BuzzFeed",
+      "url": "https://github.com/lucazalcantara/DIO-desafio-cloneBuzzFeed.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto Criando um Blog usando o Angular",
+      "url": "https://github.com/lucazalcantara/angular-blog",
       "github": true
     }
   ],
